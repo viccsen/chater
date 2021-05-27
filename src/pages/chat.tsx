@@ -4,12 +4,12 @@ type Props = {
 
 };
 
-const Chat:React.FC<Props> =() => {
-  return (
-    <div>
-      test
-    </div>
-  );
-};
+// const Chat:React.FC<Props> =() => {
+//   return (
+//     <div>
+//       test
+//     </div>
+//   );
+// };
 
-export default Chat;
+// export default Chat;
