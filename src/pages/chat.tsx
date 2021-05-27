@@ -6,7 +6,9 @@ type Props = {
 
 const Chat:React.FC<Props> =() => {
   return (
-    <div></div>
+    <div>
+      test
+    </div>
   );
 };
 
